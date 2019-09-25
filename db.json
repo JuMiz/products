@@ -1,38 +1,35 @@
 {
-  "resources": [{
+  "products": [{
     "id": "1",
     "name": "Item 1",
     "description": "This is Item 1 description",
-    "resourceType": "x type 1",
-    "path": "api/details/item_1",
-    "actionIds": ["1","2","3","4","5"]
+    "price": "100",
+    "img": "api/details/item_1"
   }, {
     "id": "2",
     "name": "Item 2",
     "description": "This is Item 2 description",
-    "resourceType": "x type 1",
-    "path": "api/details/item_2",
-    "actionIds": ["6","7","8","9","10"]
+    "price": "200",
+    "img": "api/details/item_2"
   }, {
     "id": "3",
     "name": "Item 3",
     "description": "This is Item 3 description",
-    "resourceType": "x type 1",
-    "path": "api/details/item_3",
-    "actionIds": ["1","2","3","4","5"]
+    "price": "300",
+    "img": "api/details/item_3",
+    
   }, {
     "id": "4",
     "name": "Item 4",
     "description": "This is Item 4 description",
-    "resourceType": "x type 1",
-    "path": "api/details/item_4",
-    "actionIds": ["6","7","8","9","10"]
+    "price": "400",
+    "img": "api/details/item_4",
+    
   }, {
     "id": "5",
     "name": "Item 5",
     "description": "This is Item 5 description",
-    "resourceType": "x type 1",
-    "path": "api/details/item_5",
-    "actionIds": ["1","2","3","4","5"]
+    "price": "500",
+    "img": "api/details/item_5",
   }]
 }
