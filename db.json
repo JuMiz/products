@@ -16,20 +16,18 @@
     "name": "Item 3",
     "description": "This is Item 3 description",
     "price": "300",
-    "img": "api/details/item_3",
-    
+    "img": "api/details/item_3"    
   }, {
     "id": "4",
     "name": "Item 4",
     "description": "This is Item 4 description",
     "price": "400",
-    "img": "api/details/item_4",
-    
+    "img": "api/details/item_4" 
   }, {
     "id": "5",
     "name": "Item 5",
     "description": "This is Item 5 description",
     "price": "500",
-    "img": "api/details/item_5",
+    "img": "api/details/item_5"
   }]
 }
